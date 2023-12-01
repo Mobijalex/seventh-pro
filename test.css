@@ -1,4 +1,10 @@
 * {
+<<<<<<< HEAD
   margin: 0;
   padding: 0;
+=======
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+>>>>>>> 6b216397339875e9758cabcd7ee8e2d3ed470eb4
 }
